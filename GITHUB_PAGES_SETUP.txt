@@ -1,0 +1,12 @@
+GITHUB PAGES SETUP — PERSONS & FAMILY RELATIONS REVIEWER
+
+This package is ready for a free GitHub Pages site. A GitHub Free account requires a PUBLIC repository for Pages, so the reviewer will be accessible to anyone on the internet. Do not publish if you want it private.
+
+1. Extract this ZIP.
+2. In GitHub, create a new PUBLIC repository (for example, pfr-reviewer).
+3. Upload index.html and .nojekyll to the repository root and commit the files.
+4. Open the repository Settings → Pages.
+5. Under Build and deployment, choose Deploy from a branch; select main and /(root), then Save.
+6. After GitHub finishes publishing, open https://YOUR-USERNAME.github.io/pfr-reviewer/ . HTTPS is provided automatically; you do not need to buy a custom domain.
+
+The page is a static site and needs no build command. The YouTube videos still require internet access and must be available for embedding.
